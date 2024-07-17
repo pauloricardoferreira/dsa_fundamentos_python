@@ -27,3 +27,11 @@
     - Aprendizado por Reforço (Reinforcement Learning)
     - Projeto 3
     - Avaliação e Certificado de Conclusão
+
+
+## Instalação MiniConta Linux
+
+Execute a seguinte linha de comando
+```bash
+# curl -sL "https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh" > "miniconda3.sh"
+```
